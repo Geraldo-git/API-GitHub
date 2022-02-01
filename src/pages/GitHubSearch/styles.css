@@ -1,0 +1,109 @@
+.github-search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.github-search-container h1 {
+  font-weight: bold;
+  color: #262626;
+  margin: 40px 0 20px 0;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 30px 40px;
+  background-color: #e6f7ff;
+  border-radius: 16px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.search-input {
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  font-size: 16px;
+  height: 40px;
+  width: 240px;
+  padding-left: 17px;
+  margin-bottom: 25px;
+}
+
+.search-input::placeholder {
+  color: #d3cccc;
+}
+
+.search-button {
+  height: 40px;
+  width: 101px;
+  margin-bottom: 30px;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .search-input {
+    width: 480px;
+  }
+}.github-search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+
+.github-search-container h1 {
+  font-weight: bold;
+  color: #262626;
+  margin: 40px 0 20px 0;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 30px 40px;
+  background-color: #e6f7ff;
+  border-radius: 16px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.search-input {
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+  font-size: 16px;
+  height: 40px;
+  width: 240px;
+  padding-left: 17px;
+  margin-bottom: 25px;
+}
+
+.search-input::placeholder {
+  color: #d3cccc;
+}
+
+.search-button {
+  height: 40px;
+  width: 101px;
+  margin-bottom: 30px;
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .search-input {
+    width: 480px;
+  }
+}
